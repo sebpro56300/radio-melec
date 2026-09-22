@@ -1,0 +1,4 @@
+[
+  { "titre": "Le courant continu", "theme": "Électricité", "style": "Pop", "fichier": "audio/courant-continu.mp3" },
+  { "titre": "Habilitation B0", "theme": "Sécurité électrique", "fichier": "audio/habilitation-b0.mp3" }
+]
