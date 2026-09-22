@@ -1,4 +1,4 @@
 [
-  { "titre": "Le courant continu", "theme": "Électricité", "style": "Pop", "fichier": "audio/courant-continu.mp3" },
-  { "titre": "Habilitation B0", "theme": "Sécurité électrique", "fichier": "audio/habilitation-b0.mp3" }
+  { "titre": "Laisse pas trainer ton fil", "theme": "câblage", "fichier": "audio/Laisse_pas_trainer_ton_fil.mp3" },
+  { "titre": "Le DDR", "theme": "Sécurité électrique", "fichier": "audio/Le_DDR.mp3" }
 ]
