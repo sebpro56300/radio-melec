@@ -1,5 +1,5 @@
 [
-  { "titre": "Laisse pas trainer ton fil", "theme": "câblage", "fichier": "audio/Laisse_pas_trainer_ton_fil.mp3" },
-   { "titre": "La mise en service", "theme": "câblage", "fichier": "audio/la_mise_en_service.mp3" },
-  { "titre": "Le DDR", "theme": "Sécurité électrique", "fichier": "audio/Le_DDR.mp3" }
+  { "titre": "Laisse pas trainer ton fil", "theme": "les règles de l'art en câblage", "fichier": "audio/Laisse_pas_trainer_ton_fil.mp3" },
+   { "titre": "Le protocole dans la tête", "theme": "la mise en service", "fichier": "audio/la_mise_en_service.mp3" },
+  { "titre": "Le DDR", "theme": "Sécurité électrique des personnes", "fichier": "audio/Le_DDR.mp3" }
 ]
